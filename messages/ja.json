@@ -1,0 +1,209 @@
+{
+  "metadata": {
+    "title": "Seven Elements — Lodge7 | 7つの自然に触れる場所",
+    "description": "大分県竹田市、阿蘇くじゅう国立公園のふもと。農業倉庫をリノベーションした一棟貸し宿泊施設。火・水・風・樹・土・雷・光——7つの自然要素に抱かれる滞在。",
+    "ogTitle": "Seven Elements — Lodge7 | 7つの自然に触れる場所",
+    "ogDescription": "大分県竹田市の農業倉庫を改装した一棟貸し宿泊施設。大地の営みに触れる特別な時間を。"
+  },
+  "header": {
+    "lodge7": "Lodge7",
+    "elements": "Elements",
+    "space": "Space",
+    "amenities": "Amenities",
+    "location": "Location",
+    "reserve": "予約する"
+  },
+  "hero": {
+    "sub": "Seven Elements — Lodge7",
+    "title": "農業倉庫の隠れ家で、大地の営みに触れる。",
+    "location": "阿蘇くじゅう国立公園のふもと、大分県竹田市久住高原。",
+    "description": "農業倉庫をリノベーションした一棟貸しの宿で、7つの自然を体験する滞在を。",
+    "cta": "Airbnbで予約する →"
+  },
+  "hideout": {
+    "label": "The Hideout",
+    "sectionTitle": "The Hideout",
+    "title": "農業倉庫の隠れ家。",
+    "description": "久住高原の農業倉庫をリノベーションした、一日一組限定の宿。高い天井、インダストリアルな鉄骨と自然素材が調和する空間で、都市では得られない静寂と自然のリズムに身を委ねてください。",
+    "features": ["高い天井の開放感", "インダストリアル×自然素材", "一日一組限定"]
+  },
+  "elements": {
+    "label": "Seven Elements",
+    "sectionTitle": "Seven Elements",
+    "title": "7つの自然に触れる場所。",
+    "sectionSubtitle": "7つの自然に触れる場所。",
+    "fire": {
+      "name": "火",
+      "enName": "Fire",
+      "icon": "🔥",
+      "description": "薪ストーブや焚き火の揺らめく炎。その温もりは冬の夜を包み込み、言葉のいらない時間を生みます。",
+      "detailDescription": "くじゅう連山は、今も火山活動を続ける生きた大地です。Lodge7の薪ストーブに火を灯すとき、あなたは太古から続く火との対話に加わります。"
+    },
+    "water": {
+      "name": "水",
+      "enName": "Water",
+      "icon": "💧",
+      "description": "炭酸の湧き水、朝露のしずく。水の音は、この土地のリズムそのものです。",
+      "detailDescription": "竹田市は「水の街」と呼ばれています。市内には50か所以上の湧水群があり、清らかな水が至るところで地表に姿を現します。"
+    },
+    "wind": {
+      "name": "風",
+      "enName": "Wind",
+      "icon": "🌬",
+      "description": "くじゅう連山から吹き降ろす風。季節の移ろいを最初に告げるのは、いつも風です。",
+      "detailDescription": "久住高原は、標高600メートルを超える開けた大地。遮るものがないこの高原では、風がそのまま季節の使者になります。"
+    },
+    "tree": {
+      "name": "樹",
+      "enName": "Tree",
+      "icon": "🌳",
+      "description": "天井に渡した梁の木目、森から届く樹々の香り。木は、この空間の骨格であり、呼吸です。",
+      "detailDescription": "Lodge7に足を踏み入れると、まず目に入るのは天井に渡された太い梁。その木目のひとつひとつが、この建物に温もりと物語を与えています。"
+    },
+    "earth": {
+      "name": "土",
+      "enName": "Earth",
+      "icon": "🌾",
+      "description": "農業の大地、足元の土の感触。ここでは、地球の鼓動を直に感じることができます。",
+      "detailDescription": "Lodge7が建つこの土地は、阿蘇の大噴火が生み出した火砕流台地の上にあります。何万年もの歳月をかけて、火山灰は豊かな土壌に変わりました。"
+    },
+    "thunder": {
+      "name": "雷",
+      "nameSub": "（でんき）",
+      "enName": "Electricity",
+      "icon": "⚡",
+      "description": "自然エネルギーを用いて、この地域の住民で作った電気がロッジの明かりを灯します。",
+      "detailDescription": "Lodge7の敷地には、544kWのソーラーパネルが広がっています。久住高原は日照条件に恵まれ、「ソーラーバレー」と呼ばれるほど太陽光発電が盛んな地域です。"
+    },
+    "light": {
+      "name": "光",
+      "enName": "Light",
+      "icon": "✨",
+      "description": "朝の光が倉庫に差し込む瞬間。夕暮れの黄金色。そして満天の星。光が時間を刻むこの場所で。",
+      "detailDescription": "Lodge7では、光が時計の代わりになります。朝、東の窓から差し込む最初の光で目を覚まし、日中は高い天井から降り注ぐ自然光の中で過ごします。"
+    }
+  },
+  "wonder": {
+    "text1": "Lodge7の徒歩圏内には温泉しかありません。",
+    "text2": "間違いなく不便な場所です。",
+    "text3": "でも、ここには本物の農村の暮らしがあります。",
+    "text4": "そして、ここに立って空を見上げたなら——",
+    "emphasis": "あなたはきっと、この世界が持つ\n静かな力に気づくでしょう。"
+  },
+  "space": {
+    "label": "The Space",
+    "sectionTitle": "The Space",
+    "title": "インダストリアルと自然の調和。",
+    "description": "高い天井、むき出しの鉄骨、そして木の温もり。農業倉庫の骨格を活かしながら、自然素材で仕上げた空間は、都市のどんなホテルにもない安らぎをもたらします。",
+    "features": ["天井高5m", "厳選されたインテリア", "自然光あふれる空間"],
+    "tabBedroom": "寝室",
+    "tabLiving": "リビング",
+    "tabFloorplan": "間取り図",
+    "clickToExpand": "クリックで拡大",
+    "feature1number": "1",
+    "feature1label": "一日一組限定",
+    "feature2number": "7",
+    "feature2label": "つの自然要素",
+    "feature3number": "∞",
+    "feature3label": "星空の広がり"
+  },
+  "coffee": {
+    "label": "Specialty Coffee",
+    "name": "三日月珈琲焙煎所",
+    "description": "竹田市の人気カフェ「三日月珈琲焙煎所（月鐘楼）」の\n豆をお部屋でお楽しみいただけます。\n久住高原の朝、挽きたてのコーヒーとともに目覚める贅沢を。"
+  },
+  "amenities": {
+    "label": "Amenities & Facilities",
+    "title": "設備とアメニティ",
+    "items": [
+      { "icon": "🔥", "name": "薪ストーブ／焚き火", "desc": "冬の夜を温める本格薪ストーブと焚き火施設", "price": "使用料 3,000円（薪代込み）" },
+      { "icon": "🚗", "name": "EV充電", "desc": "Tesla Wall Connector完備", "price": "" },
+      { "icon": "☕", "name": "コーヒー", "desc": "三日月珈琲焙煎所の豆\nハンドドリップ器具完備", "price": "" },
+      { "icon": "🌐", "name": "Wi-Fi", "desc": "スターリンク設置。宇宙と直接つながります。", "price": "" },
+      { "icon": "🍳", "name": "ミニキッチン", "desc": "調理器具・食器完備", "price": "" },
+      { "icon": "🛁", "name": "タオル", "desc": "バスタオル・フェイスタオル完備", "price": "" },
+      { "icon": "🪵", "name": "ウッドデッキ", "desc": "広いウッドデッキとテラステーブル", "price": "" },
+      { "icon": "🍖", "name": "BBQコンロ", "desc": "バーベキューコンロ完備", "price": "利用料 2,000円（炭代込み）" }
+    ]
+  },
+  "farmers": {
+    "title": "Farmers First",
+    "subtitle": "地域の一員として。",
+    "cards": [
+      {
+        "title": "大地の営みに参加",
+        "description": "この土地の主役は農業です。私たちは、農家の方々の暮らしに敬意を払い、その営みの一部として存在しています。"
+      },
+      {
+        "title": "静寂を守る",
+        "description": "久住高原の夜は驚くほど静かです。この静寂は、地域の方々と自然が守り続けてきた大切な財産です。"
+      },
+      {
+        "title": "地域の一員として",
+        "description": "Lodge7は、観光施設ではなく、地域コミュニティの一員です。滞在を通じて、この土地の物語に触れてください。"
+      }
+    ]
+  },
+  "location": {
+    "label": "Location",
+    "pageTitle": "Location",
+    "heroTitle": "大分県竹田市",
+    "title": "阿蘇くじゅう国立公園のふもと。",
+    "description": "大分県竹田市、久住高原。阿蘇くじゅう国立公園に抱かれた、静寂と星空の土地。",
+    "nearby": "・七里田温泉 下の湯（徒歩4分）\n・久住高原 ガンジーファーム（車で10分）\n・久住ワイナリー（車で12分）\n・長湯温泉郷（車で5分）\n・竹田市城下町 ならびに 岡城址（車で30分）",
+    "accessText": "大分空港から車で約90分\n熊本空港から車で約80分\n大分駅・別府駅から車で約60分\n熊本市街から車で約110分\n福岡市街から車で約150分",
+    "access": [
+      { "from": "大分空港から", "time": "車で約90分" },
+      { "from": "熊本空港から", "time": "車で約80分" },
+      { "from": "大分駅・別府駅から", "time": "車で約60分" },
+      { "from": "熊本市街から", "time": "車で約110分" },
+      { "from": "福岡市街から", "time": "車で約150分" }
+    ],
+    "accessNote": "※ 詳細な地図はAirbnbでのご予約後にホストよりお送りいたします。",
+    "spots": [
+      { "name": "七里田温泉 下の湯", "note": "（世界最高峰の天然炭酸温泉）", "distance": "徒歩4分" },
+      { "name": "久住高原 ガンジーファーム", "note": "", "distance": "車で10分" },
+      { "name": "久住ワイナリー", "note": "", "distance": "車で12分" },
+      { "name": "長湯温泉郷", "note": "", "distance": "車で5分" },
+      { "name": "竹田市城下町 ならびに 岡城址", "note": "", "distance": "車で30分" }
+    ]
+  },
+  "footerCta": {
+    "title": "農業倉庫の隠れ家で、\n特別な時間を。",
+    "cta": "Airbnbで予約する →"
+  },
+  "footer": {
+    "lodge7": "Lodge7",
+    "philosophy": "Philosophy",
+    "location": "Location",
+    "contact": "Contact",
+    "instagram": "Instagram",
+    "copyright": "© 2025 ECOW Inc. All rights reserved."
+  },
+  "lodge7": {
+    "pageTitle": "Lodge7",
+    "heroTitle": "農業倉庫の隠れ家で、大地の営みに触れる。",
+    "description": "Lodge7は、Seven Elementsの最初の施設です。\n\n大分県竹田市の農村地帯に佇む、かつての農業倉庫。その骨格を活かしながら、モダンで快適な一棟貸し宿泊施設に生まれ変わりました。",
+    "amenitiesTitle": "設備・アメニティ",
+    "amenities": "・薪ストーブ／焚き火\n・EV充電（Tesla Wall Connector）\n・コーヒー（三日月珈琲焙煎所の豆）\n・Wi-Fi（スターリンク）\n・ミニキッチン\n・BBQコンロ",
+    "capacity": "定員：2〜6名",
+    "bookCta": "Airbnbで予約する"
+  },
+  "about": {
+    "pageTitle": "Philosophy",
+    "heroTitle": "自然の要素に学ぶ、暮らしの哲学",
+    "story": "Seven Elementsは、ひとつの問いから始まりました。\n\n「自然と人の暮らしが、もう一度交わる場所をつくれないか？」\n\n大分県竹田市。阿蘇くじゅう国立公園のふもとに広がる農村地帯。ここには、火・水・風・樹・土・光・雷という7つの自然の要素が、今も日常の中に息づいています。",
+    "mission": "自然の要素に耳を澄ませ、大地の営みに寄り添う。それがSeven Elementsの哲学です。"
+  },
+  "contact": {
+    "pageTitle": "Contact",
+    "description": "ご質問やご相談がございましたら、お気軽にお問い合わせください。",
+    "form": {
+      "name": "お名前",
+      "email": "メールアドレス",
+      "message": "メッセージ",
+      "submit": "送信する",
+      "thankYou": "お問い合わせありがとうございます。\n折り返しご連絡いたします。"
+    }
+  }
+}

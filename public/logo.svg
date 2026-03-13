@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Outer circle - cosmos -->
+  <circle cx="100" cy="100" r="90" stroke="#44403c" stroke-width="1.5" fill="none"/>
+
+  <!-- Inner organic ring -->
+  <circle cx="100" cy="100" r="70" stroke="#c97832" stroke-width="1" fill="none" opacity="0.6"/>
+
+  <!-- Seven element dots arranged in a circle -->
+  <!-- Fire -->
+  <circle cx="100" cy="30" r="6" fill="#d4553a"/>
+  <!-- Water -->
+  <circle cx="160.6" cy="60" r="6" fill="#4a8ba8"/>
+  <!-- Wind -->
+  <circle cx="160.6" cy="140" r="6" fill="#8fb8a0"/>
+  <!-- Wood -->
+  <circle cx="100" cy="170" r="6" fill="#6b8e5e"/>
+  <!-- Earth -->
+  <circle cx="39.4" cy="140" r="6" fill="#b8956a"/>
+  <!-- Light -->
+  <circle cx="39.4" cy="60" r="6" fill="#e8c856"/>
+  <!-- Darkness -->
+  <circle cx="100" cy="100" r="8" fill="#2d2d3d"/>
+
+  <!-- Connecting lines from center to each element -->
+  <line x1="100" y1="100" x2="100" y2="30" stroke="#44403c" stroke-width="0.5" opacity="0.3"/>
+  <line x1="100" y1="100" x2="160.6" y2="60" stroke="#44403c" stroke-width="0.5" opacity="0.3"/>
+  <line x1="100" y1="100" x2="160.6" y2="140" stroke="#44403c" stroke-width="0.5" opacity="0.3"/>
+  <line x1="100" y1="100" x2="100" y2="170" stroke="#44403c" stroke-width="0.5" opacity="0.3"/>
+  <line x1="100" y1="100" x2="39.4" y2="140" stroke="#44403c" stroke-width="0.5" opacity="0.3"/>
+  <line x1="100" y1="100" x2="39.4" y2="60" stroke="#44403c" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- Organic arc paths connecting adjacent elements -->
+  <path d="M100,30 Q135,40 160.6,60" stroke="#c97832" stroke-width="0.8" fill="none" opacity="0.4"/>
+  <path d="M160.6,60 Q170,100 160.6,140" stroke="#c97832" stroke-width="0.8" fill="none" opacity="0.4"/>
+  <path d="M160.6,140 Q135,160 100,170" stroke="#c97832" stroke-width="0.8" fill="none" opacity="0.4"/>
+  <path d="M100,170 Q65,160 39.4,140" stroke="#c97832" stroke-width="0.8" fill="none" opacity="0.4"/>
+  <path d="M39.4,140 Q30,100 39.4,60" stroke="#c97832" stroke-width="0.8" fill="none" opacity="0.4"/>
+  <path d="M39.4,60 Q65,40 100,30" stroke="#c97832" stroke-width="0.8" fill="none" opacity="0.4"/>
+</svg>

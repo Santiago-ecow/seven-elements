@@ -1,0 +1,209 @@
+{
+  "metadata": {
+    "title": "Seven Elements — Lodge7 | A Place to Touch Seven Elements of Nature",
+    "description": "A private retreat at the foot of Aso-Kuju National Park in Taketa, Oita. An agricultural warehouse reborn where seven natural elements converge.",
+    "ogTitle": "Seven Elements — Lodge7 | A Place to Touch Seven Elements of Nature",
+    "ogDescription": "A converted agricultural warehouse in rural Oita, Japan. A private retreat where nature and architecture intertwine."
+  },
+  "header": {
+    "lodge7": "Lodge7",
+    "elements": "Elements",
+    "space": "Space",
+    "amenities": "Amenities",
+    "location": "Location",
+    "reserve": "Reserve"
+  },
+  "hero": {
+    "sub": "Seven Elements — Lodge7",
+    "title": "A farmhouse hideaway\nwhere you touch\nthe rhythm of the earth.",
+    "location": "At the foot of Aso-Kuju National Park, Kuju Highlands, Taketa, Oita.",
+    "description": "A private retreat in a renovated agricultural warehouse, where seven elements of nature await.",
+    "cta": "Book on Airbnb →"
+  },
+  "hideout": {
+    "label": "The Hideout",
+    "sectionTitle": "The Hideout",
+    "title": "A hideaway born from a farmhouse.",
+    "description": "A one-group-per-day retreat in a renovated agricultural warehouse on the Kuju Highlands. Soaring ceilings, industrial steel, and natural materials converge in a space where silence and nature's rhythm replace the noise of the city.",
+    "features": ["Soaring ceilings", "Industrial meets natural", "Exclusively yours"]
+  },
+  "elements": {
+    "label": "Seven Elements",
+    "sectionTitle": "Seven Elements",
+    "title": "A place to touch seven elements of nature.",
+    "sectionSubtitle": "A place to touch seven elements of nature.",
+    "fire": {
+      "name": "Fire",
+      "enName": "Fire",
+      "icon": "🔥",
+      "description": "The flickering flames of a wood stove and bonfire. Their warmth envelops winter nights, creating moments that need no words.",
+      "detailDescription": "The Kuju mountain range is living land where volcanic activity continues to this day. When you light the wood stove at Lodge7, you join a dialogue with fire that stretches back to ancient times."
+    },
+    "water": {
+      "name": "Water",
+      "enName": "Water",
+      "icon": "💧",
+      "description": "Carbonated spring water, morning dewdrops. The sound of water is the rhythm of this land itself.",
+      "detailDescription": "Taketa is known as the City of Water. With over fifty natural spring groups, crystal-clear water filtered through Aso's volcanic layers surfaces everywhere you look."
+    },
+    "wind": {
+      "name": "Wind",
+      "enName": "Wind",
+      "icon": "🌬",
+      "description": "The breeze descending from the Kuju mountains. It is always the wind that first announces the turning of the seasons.",
+      "detailDescription": "The Kuju Highlands sit at over 600 meters above sea level — an open, expansive land. With nothing to block its path, the wind itself becomes the messenger of the seasons."
+    },
+    "tree": {
+      "name": "Tree",
+      "enName": "Tree",
+      "icon": "🌳",
+      "description": "The grain of ceiling beams, the scent of forest trees. Wood is both the skeleton and the breath of this space.",
+      "detailDescription": "Step into Lodge7 and the first thing you notice is the thick beams spanning the ceiling. Each line of grain lends warmth and story to this building."
+    },
+    "earth": {
+      "name": "Earth",
+      "enName": "Earth",
+      "icon": "🌾",
+      "description": "Agricultural land, the texture of soil beneath your feet. Here, you can feel the pulse of the earth directly.",
+      "detailDescription": "The land where Lodge7 stands sits upon a pyroclastic plateau born from Aso's great eruptions. Over tens of thousands of years, volcanic ash became rich soil."
+    },
+    "thunder": {
+      "name": "Electricity",
+      "nameSub": "",
+      "enName": "Electricity",
+      "icon": "⚡",
+      "description": "Using renewable energy, local residents generate the electricity that lights this lodge.",
+      "detailDescription": "Across the grounds of Lodge7, 544kW of solar panels spread out under the highland sky. The Kuju Highlands enjoy exceptional sunlight conditions."
+    },
+    "light": {
+      "name": "Light",
+      "enName": "Light",
+      "icon": "✨",
+      "description": "The moment morning light spills into the warehouse. The golden hour at dusk. And a sky full of stars. In this place, light marks the passage of time.",
+      "detailDescription": "At Lodge7, light takes the place of a clock. Wake to the first rays entering through the east window. Spend the day bathed in natural light from the high ceiling."
+    }
+  },
+  "wonder": {
+    "text1": "Within walking distance of Lodge7, there is nothing but a hot spring.",
+    "text2": "It is, without question, an inconvenient place.",
+    "text3": "But here, you'll find the genuine life of a farming village.",
+    "text4": "And if you stand here and look up at the sky—",
+    "emphasis": "you will surely sense the quiet power\nthat this world holds."
+  },
+  "space": {
+    "label": "The Space",
+    "sectionTitle": "The Space",
+    "title": "Where industrial meets nature.",
+    "description": "Soaring ceilings, exposed steel beams, and the warmth of wood. A space that preserves the bones of the original warehouse while finishing with natural materials — offering a tranquility no city hotel can match.",
+    "features": ["5m ceiling height", "Curated interiors", "Bathed in natural light"],
+    "tabBedroom": "Bedroom",
+    "tabLiving": "Living",
+    "tabFloorplan": "Floor Plan",
+    "clickToExpand": "Click to enlarge",
+    "feature1number": "1",
+    "feature1label": "group per day",
+    "feature2number": "7",
+    "feature2label": "natural elements",
+    "feature3number": "∞",
+    "feature3label": "starlit skies"
+  },
+  "coffee": {
+    "label": "Specialty Coffee",
+    "name": "Mikazuki Coffee Roasters",
+    "description": "Enjoy beans from Mikazuki Coffee Roasters (Geshorō),\na beloved café in Taketa city.\nWake to the luxury of freshly ground coffee on a Kuju Highland morning."
+  },
+  "amenities": {
+    "label": "Amenities & Facilities",
+    "title": "Amenities & Facilities",
+    "items": [
+      { "icon": "🔥", "name": "Wood Stove / Fire Pit", "desc": "An authentic wood stove and fire pit for cozy winter nights", "price": "Usage fee ¥3,000 (firewood included)" },
+      { "icon": "🚗", "name": "EV Charging", "desc": "Tesla Wall Connector available", "price": "" },
+      { "icon": "☕", "name": "Coffee", "desc": "Mikazuki Coffee Roasters beans\nHand drip equipment provided", "price": "" },
+      { "icon": "🌐", "name": "Wi-Fi", "desc": "Starlink installed. Connected directly to space.", "price": "" },
+      { "icon": "🍳", "name": "Kitchenette", "desc": "Cookware and tableware provided", "price": "" },
+      { "icon": "🛁", "name": "Towels", "desc": "Bath towels and face towels provided", "price": "" },
+      { "icon": "🪵", "name": "Wooden Deck", "desc": "Spacious deck with terrace seating", "price": "" },
+      { "icon": "🍖", "name": "BBQ Grill", "desc": "Barbecue grill available", "price": "Usage fee ¥2,000 (charcoal included)" }
+    ]
+  },
+  "farmers": {
+    "title": "Farmers First",
+    "subtitle": "As part of the community.",
+    "cards": [
+      {
+        "title": "Joining the rhythm of the land",
+        "description": "Agriculture is the heart of this land. We honor the lives of local farmers and exist as part of their daily rhythm."
+      },
+      {
+        "title": "Preserving the silence",
+        "description": "The nights on the Kuju Highlands are remarkably quiet. This silence is a precious treasure that the community and nature have protected for generations."
+      },
+      {
+        "title": "Part of the community",
+        "description": "Lodge7 is not a tourist facility — it is a member of the local community. Through your stay, we invite you to become part of this land's story."
+      }
+    ]
+  },
+  "location": {
+    "label": "Location",
+    "pageTitle": "Location",
+    "heroTitle": "Taketa, Oita Prefecture",
+    "title": "At the foot of Aso-Kuju National Park.",
+    "description": "Kuju Highlands, Taketa, Oita Prefecture. A land of silence and starlit skies, embraced by Aso-Kuju National Park.",
+    "nearby": "• Shichirida Onsen (4 min walk)\n• Gansey Farm (10 min drive)\n• Kuju Winery (12 min drive)\n• Nagayu Onsen (5 min drive)\n• Oka Castle Ruins (30 min drive)",
+    "accessText": "From Oita Airport: approx. 90 min by car\nFrom Kumamoto Airport: approx. 80 min by car\nFrom Oita/Beppu Station: approx. 60 min by car\nFrom Kumamoto City: approx. 110 min by car\nFrom Fukuoka City: approx. 150 min by car",
+    "access": [
+      { "from": "From Oita Airport", "time": "Approx. 90 min by car" },
+      { "from": "From Kumamoto Airport", "time": "Approx. 80 min by car" },
+      { "from": "From Oita/Beppu Station", "time": "Approx. 60 min by car" },
+      { "from": "From Kumamoto City", "time": "Approx. 110 min by car" },
+      { "from": "From Fukuoka City", "time": "Approx. 150 min by car" }
+    ],
+    "accessNote": "* Detailed directions will be sent by the host after booking on Airbnb.",
+    "spots": [
+      { "name": "Shichirida Onsen Shimo-no-Yu", "note": "(World-class natural carbonated hot spring)", "distance": "4 min walk" },
+      { "name": "Kuju Highland Gansey Farm", "note": "", "distance": "10 min drive" },
+      { "name": "Kuju Winery", "note": "", "distance": "12 min drive" },
+      { "name": "Nagayu Onsen", "note": "", "distance": "5 min drive" },
+      { "name": "Taketa Castle Town & Oka Castle Ruins", "note": "", "distance": "30 min drive" }
+    ]
+  },
+  "footerCta": {
+    "title": "A special time awaits\nin the farmhouse hideaway.",
+    "cta": "Book on Airbnb →"
+  },
+  "footer": {
+    "lodge7": "Lodge7",
+    "philosophy": "Philosophy",
+    "location": "Location",
+    "contact": "Contact",
+    "instagram": "Instagram",
+    "copyright": "© 2025 ECOW Inc. All rights reserved."
+  },
+  "lodge7": {
+    "pageTitle": "Lodge7",
+    "heroTitle": "In a farmhouse hideaway, touch the rhythm of the earth.",
+    "description": "Lodge7 is the first property of Seven Elements.\n\nStanding in the rural landscape of Taketa, Oita, this former agricultural warehouse has been transformed into a modern, comfortable private retreat.",
+    "amenitiesTitle": "Amenities",
+    "amenities": "• Wood stove / Fire pit\n• EV charging (Tesla Wall Connector)\n• Coffee (Mikazuki Coffee Roasters)\n• Wi-Fi (Starlink)\n• Kitchenette\n• BBQ grill",
+    "capacity": "Capacity: 2–6 guests",
+    "bookCta": "Book on Airbnb"
+  },
+  "about": {
+    "pageTitle": "Philosophy",
+    "heroTitle": "A philosophy rooted in the elements of nature",
+    "story": "Seven Elements began with a single question.\n\n\"Can we create a place where nature and human life intersect once more?\"\n\nTaketa, Oita Prefecture. A rural landscape at the foot of Aso-Kuju National Park. Here, seven natural elements still breathe within everyday life.",
+    "mission": "Listen to the elements. Walk alongside the working earth. That is the philosophy of Seven Elements."
+  },
+  "contact": {
+    "pageTitle": "Contact",
+    "description": "Have a question or want to learn more? We'd love to hear from you.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send Message",
+      "thankYou": "Thank you for reaching out.\nWe'll get back to you soon."
+    }
+  }
+}
