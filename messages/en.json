@@ -23,13 +23,14 @@
   "hideout": {
     "label": "The Hideout",
     "sectionTitle": "The Hideout",
-    "title": "A hideaway born from a farmhouse.",
-    "description": "A one-group-per-day retreat in a renovated agricultural warehouse on the Kuju Highlands. Soaring ceilings, industrial steel, and natural materials converge in a space where silence and nature's rhythm replace the noise of the city.",
+    "title": "A hideaway born from a farm warehouse.",
+    "description": "Lodge7 is a newly opened, one-group-per-day hideaway\nin the Shichirida district of Kuju Highlands.\nConverted from a working farm warehouse, it offers a uniquely Airbnb-style stay\nwhere soaring ceilings, industrial steel frames, and natural materials come together.\nJust steps away lies Shichirida Onsen,\nrenowned as one of the world's finest natural carbonated hot springs.\nTreat your stay as a little adventure,\nor as a healing retreat to restore a weary body——\neither way, experience life as it's lived in rural Japan, at your own pace.",
     "features": ["Soaring ceilings", "Industrial meets natural", "Exclusively yours"]
   },
   "elements": {
     "label": "Seven Elements",
     "sectionTitle": "Seven Elements",
+    "brandDescription": "A lodging brand where you experience seven elements of nature—fire, water, wind, tree, earth, electricity, and light.",
     "title": "A place to touch seven elements of nature.",
     "sectionSubtitle": "A place to touch seven elements of nature.",
     "fire": {
@@ -43,7 +44,7 @@
       "name": "Water",
       "enName": "Water",
       "icon": "💧",
-      "description": "Carbonated spring water, morning dewdrops. The sound of water is the rhythm of this land itself.",
+      "description": "Carbonated hot springs, fresh spring water, drops of morning dew. The sound of water is the rhythm of this land itself.",
       "detailDescription": "Taketa is known as the City of Water. With over fifty natural spring groups, crystal-clear water filtered through Aso's volcanic layers surfaces everywhere you look."
     },
     "wind": {
@@ -84,11 +85,14 @@
     }
   },
   "wonder": {
-    "text1": "Within walking distance of Lodge7, there is nothing but a hot spring.",
-    "text2": "It is, without question, an inconvenient place.",
-    "text3": "But here, you'll find the genuine life of a farming village.",
-    "text4": "And if you stand here and look up at the sky—",
-    "emphasis": "you will surely sense the quiet power\nthat this world holds."
+    "text1": "Within walking distance of Lodge7,",
+    "text2": "there is nothing but a hot spring.",
+    "text3": "It is, without question, an inconvenient place.",
+    "text4": "But here you'll find a sky full of stars,",
+    "text5": "the sound of rice swaying in the wind,",
+    "text6": "the scent of firewood burning——",
+    "text7": "a beauty woven into everyday life\nthat is anything but ordinary.",
+    "emphasis": "Stand here and look up——\nand you will sense the quiet power\nthis world holds."
   },
   "space": {
     "label": "The Space",

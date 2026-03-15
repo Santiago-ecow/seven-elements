@@ -11,11 +11,14 @@ export function Wonder() {
       <div className="wonder-overlay" />
       <p className="wonder-text" data-animate>
         {t("text1")}<br />
-        {t("text2")}<br /><br />
+        {t("text2")}<br />
         {t("text3")}<br /><br />
-        {t("text4")}<br /><br />
-        <em>{t("emphasis").split("\n").map((line, i) => (
-          <span key={i}>{line}{i === 0 && <br />}</span>
+        {t("text4")}<br />
+        {t("text5")}<br />
+        {t("text6")}<br />
+        {t("text7")}<br /><br />
+        <em>{t("emphasis").split("\n").map((line, i, arr) => (
+          <span key={i}>{line}{i < arr.length - 1 && <br />}</span>
         ))}</em>
       </p>
     </section>

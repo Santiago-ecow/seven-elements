@@ -549,9 +549,9 @@ h1, h2, h3 { font-family: var(--font-serif); font-weight: 300; }
 }
 .feature { text-align: center; }
 .feature-number {
-  font-family: var(--font-serif);
+  font-family: var(--font-sans);
   font-size: 48px;
-  font-weight: 300;
+  font-weight: 200;
   color: var(--color-accent);
   margin-bottom: 8px;
 }

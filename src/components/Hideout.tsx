@@ -15,7 +15,7 @@ export function Hideout() {
           <div>
             <p className="section-label" data-animate>{t("label")}</p>
             <h2 className="section-title" data-animate data-animate-delay="1">{t("title")}</h2>
-            <p className="section-text" data-animate data-animate-delay="2">{t("description")}</p>
+            <p className="section-text" data-animate data-animate-delay="2" style={{ whiteSpace: "pre-line" }}>{t("description")}</p>
           </div>
         </div>
       </div>

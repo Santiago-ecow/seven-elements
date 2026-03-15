@@ -20,11 +20,51 @@ export function SevenElements() {
 
   return (
     <section className="section-dark" id="elements">
-      <div className="section-inner">
-        <p className="section-label" data-animate style={{ color: "var(--color-accent-light)" }}>
-          {t("label")}
-        </p>
-        <h2 className="section-title" data-animate data-animate-delay="1" style={{ marginBottom: 60 }}>
+      <div className="section-inner" style={{ textAlign: "center", marginBottom: 60 }}>
+        {/* ロゴ＋ブランド説明 */}
+        <div data-animate style={{ marginBottom: 48 }}>
+          <img
+            src="/logo.svg"
+            alt="Seven Elements"
+            className="elements-brand-logo"
+            style={{
+              width: "clamp(80px, 10vw, 120px)",
+              height: "auto",
+              margin: "0 auto 20px",
+              display: "block",
+              filter: "brightness(0) invert(1)",
+              opacity: 0.85,
+            }}
+          />
+          <p
+            style={{
+              fontFamily: "var(--font-serif)",
+              fontSize: "clamp(20px, 2.5vw, 32px)",
+              fontWeight: 300,
+              letterSpacing: "0.15em",
+              color: "var(--color-dark-text)",
+              marginBottom: 16,
+            }}
+          >
+            Seven Elements
+          </p>
+          <p
+            style={{
+              fontSize: "clamp(12px, 1vw, 14px)",
+              fontWeight: 200,
+              letterSpacing: "0.1em",
+              color: "var(--color-dark-text-secondary)",
+              maxWidth: 480,
+              margin: "0 auto",
+              lineHeight: 1.9,
+              whiteSpace: "pre-line",
+            }}
+          >
+            {t("brandDescription")}
+          </p>
+        </div>
+
+        <h2 className="section-title" data-animate data-animate-delay="1" style={{ textAlign: "center" }}>
           {t("title")}
         </h2>
       </div>
