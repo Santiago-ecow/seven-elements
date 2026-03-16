@@ -69,7 +69,7 @@ export function Hero() {
         <p className="hero-location" data-animate data-animate-delay="1">
           {t("location")}
         </p>
-        <p className="hero-desc" data-animate data-animate-delay="2">
+        <p className="hero-desc" data-animate data-animate-delay="2" style={{ whiteSpace: "pre-line" }}>
           {t("description")}
         </p>
         <a
