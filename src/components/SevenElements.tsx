@@ -49,6 +49,7 @@ export function SevenElements() {
             Seven Elements
           </p>
           <p
+            className="elements-brand-desc"
             style={{
               fontSize: "clamp(12px, 1vw, 14px)",
               fontWeight: 200,

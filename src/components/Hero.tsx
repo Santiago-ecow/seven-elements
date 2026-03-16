@@ -27,7 +27,9 @@ export function Hero() {
     for (let i = 0; i < text.length; i++) {
       const char = text[i];
       if (char === "\n") {
-        el.appendChild(document.createElement("br"));
+        const br = document.createElement("br");
+        br.className = "mobile-br";
+        el.appendChild(br);
         continue;
       }
       if (char === " ") {
@@ -69,7 +71,7 @@ export function Hero() {
         <p className="hero-location" data-animate data-animate-delay="1">
           {t("location")}
         </p>
-        <p className="hero-desc" data-animate data-animate-delay="2" style={{ whiteSpace: "pre-line" }}>
+        <p className="hero-desc" data-animate data-animate-delay="2">
           {t("description")}
         </p>
         <a
