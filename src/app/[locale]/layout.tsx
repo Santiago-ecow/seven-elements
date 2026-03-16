@@ -37,6 +37,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "metadata" });
 
+  const baseUrl = "https://www.sevenelements.jp";
+
   return {
     title: {
       default: t("title"),
@@ -46,21 +48,32 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     openGraph: {
       title: t("ogTitle"),
       description: t("ogDescription"),
-      url: locale === "ja" ? "https://sevenelements.jp" : "https://sevenelements.jp/en",
+      url: locale === "ja" ? baseUrl : `${baseUrl}/en`,
       siteName: "Seven Elements",
       locale: locale === "ja" ? "ja_JP" : "en_US",
+      alternateLocale: locale === "ja" ? "en_US" : "ja_JP",
       type: "website",
+      images: [
+        {
+          url: `${baseUrl}/images/og-image.jpg`,
+          width: 1200,
+          height: 630,
+          alt: "Lodge7 — Seven Elements",
+        },
+      ],
     },
     twitter: {
       card: "summary_large_image",
       title: t("ogTitle"),
       description: t("ogDescription"),
+      images: [`${baseUrl}/images/og-image.jpg`],
     },
     alternates: {
-      canonical: locale === "ja" ? "https://sevenelements.jp" : "https://sevenelements.jp/en",
+      canonical: locale === "ja" ? baseUrl : `${baseUrl}/en`,
       languages: {
-        ja: "https://sevenelements.jp",
-        en: "https://sevenelements.jp/en",
+        ja: baseUrl,
+        en: `${baseUrl}/en`,
+        "x-default": baseUrl,
       },
     },
     icons: {
@@ -83,27 +96,42 @@ export default async function LocaleLayout({ children, params }: Props) {
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "LodgingBusiness",
-    name: "Seven Elements — Lodge7",
+    name: "Lodge7",
+    alternateName: "Seven Elements Lodge7",
     description:
       locale === "ja"
-        ? "大分県竹田市の農業倉庫を改装した一棟貸し宿泊施設"
-        : "A private retreat in a converted agricultural warehouse in Taketa, Oita",
+        ? "阿蘇くじゅう国立公園のふもと、農業倉庫をリノベーションした一日一組限定の一棟貸し宿"
+        : "A one-group-per-day private lodge converted from a farm warehouse at the foot of Aso-Kuju National Park",
+    url: "https://www.sevenelements.jp/",
+    image: "https://www.sevenelements.jp/images/hideout.jpg",
     address: {
       "@type": "PostalAddress",
-      addressLocality: "Taketa",
-      addressRegion: "Oita",
+      addressLocality: "竹田市",
+      addressRegion: "大分県",
       addressCountry: "JP",
     },
     geo: {
       "@type": "GeoCoordinates",
-      latitude: 32.97,
-      longitude: 131.39,
+      latitude: 33.0667,
+      longitude: 131.3167,
     },
+    email: "info@sevenelements.jp",
+    amenityFeature: [
+      { "@type": "LocationFeatureSpecification", name: "薪ストーブ", value: true },
+      { "@type": "LocationFeatureSpecification", name: "EV充電 (Tesla Wall Connector)", value: true },
+      { "@type": "LocationFeatureSpecification", name: "Starlink Wi-Fi", value: true },
+      { "@type": "LocationFeatureSpecification", name: "BBQコンロ", value: true },
+      { "@type": "LocationFeatureSpecification", name: "ウッドデッキ", value: true },
+    ],
+    numberOfRooms: 1,
+    petsAllowed: false,
+    checkinTime: "15:00",
+    checkoutTime: "10:00",
+    currenciesAccepted: "JPY",
     priceRange: "$$",
-    starRating: {
-      "@type": "Rating",
-      ratingValue: "5",
-    },
+    sameAs: [
+      "https://www.airbnb.jp/rooms/1578736113379179111",
+    ],
   };
 
   return (
