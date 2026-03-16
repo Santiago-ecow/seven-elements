@@ -110,7 +110,7 @@
     "feature2number": "7",
     "feature2label": "natural elements",
     "feature3number": "∞",
-    "feature3label": "starlit skies"
+    "feature3label": "infinite freedom"
   },
   "coffee": {
     "label": "Specialty Coffee",
@@ -126,7 +126,7 @@
       { "icon": "☕", "name": "Coffee", "desc": "Mikazuki Coffee Roasters beans\nHand drip equipment provided", "price": "" },
       { "icon": "🌐", "name": "Wi-Fi", "desc": "Starlink installed. Connected directly to space.", "price": "" },
       { "icon": "🍳", "name": "Kitchenette", "desc": "Cookware and tableware provided", "price": "" },
-      { "icon": "🛁", "name": "Towels", "desc": "Bath towels and face towels provided", "price": "" },
+      { "icon": "🚿", "name": "Shower", "desc": "Shower only (use nearby hot springs for bathing)\nBath towels and face towels provided", "price": "" },
       { "icon": "🪵", "name": "Wooden Deck", "desc": "Spacious deck with terrace seating", "price": "" },
       { "icon": "🍖", "name": "BBQ Grill", "desc": "Barbecue grill available", "price": "Usage fee ¥2,000 (charcoal included)" }
     ]

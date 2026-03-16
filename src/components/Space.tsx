@@ -54,10 +54,12 @@ export function Space() {
               <div className="feature-number">{t("feature1number")}</div>
               <div className="feature-label">{t("feature1label")}</div>
             </div>
+            <div className="feature-operator">+</div>
             <div className="feature">
               <div className="feature-number">{t("feature2number")}</div>
               <div className="feature-label">{t("feature2label")}</div>
             </div>
+            <div className="feature-operator">=</div>
             <div className="feature">
               <div className="feature-number">{t("feature3number")}</div>
               <div className="feature-label">{t("feature3label")}</div>

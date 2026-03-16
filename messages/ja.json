@@ -110,7 +110,7 @@
     "feature2number": "7",
     "feature2label": "つの自然要素",
     "feature3number": "∞",
-    "feature3label": "星空の広がり"
+    "feature3label": "無限の開放感"
   },
   "coffee": {
     "label": "Specialty Coffee",
@@ -126,7 +126,7 @@
       { "icon": "☕", "name": "コーヒー", "desc": "三日月珈琲焙煎所の豆\nハンドドリップ器具完備", "price": "" },
       { "icon": "🌐", "name": "Wi-Fi", "desc": "スターリンク設置。宇宙と直接つながります。", "price": "" },
       { "icon": "🍳", "name": "ミニキッチン", "desc": "調理器具・食器完備", "price": "" },
-      { "icon": "🛁", "name": "タオル", "desc": "バスタオル・フェイスタオル完備", "price": "" },
+      { "icon": "🚿", "name": "シャワー", "desc": "シャワーのみ（お風呂は近くの温泉へ）\nバスタオル・フェイスタオル完備", "price": "" },
       { "icon": "🪵", "name": "ウッドデッキ", "desc": "広いウッドデッキとテラステーブル", "price": "" },
       { "icon": "🍖", "name": "BBQコンロ", "desc": "バーベキューコンロ完備", "price": "利用料 2,000円（炭代込み）" }
     ]
