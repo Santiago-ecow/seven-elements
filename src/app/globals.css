@@ -686,6 +686,16 @@ h1, h2, h3 { font-family: var(--font-serif); font-weight: 300; }
   margin-top: 48px;
   text-align: center;
 }
+.footer-copy a {
+  color: var(--color-dark-text);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  opacity: 1;
+  transition: color 0.3s;
+}
+.footer-copy a:hover {
+  color: #fff;
+}
 
 /* ===== MOBILE-ONLY LINE BREAK ===== */
 .mobile-br { display: none; }
