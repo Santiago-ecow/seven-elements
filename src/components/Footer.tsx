@@ -20,7 +20,15 @@ export function Footer() {
             </a>
           </div>
         </div>
-        <p className="footer-copy">{t("copyright")}</p>
+        <p className="footer-copy">
+          {t.rich("copyright", {
+            ecowLink: (chunks) => (
+              <a href="https://www.ecow.co.jp" target="_blank" rel="noopener noreferrer">
+                ECOW Inc.
+              </a>
+            ),
+          })}
+        </p>
       </div>
     </footer>
   );
